@@ -1,0 +1,63 @@
+.search_field1{
+    background-color: beige;
+    align-items: center;
+    justify-content: center;
+    
+
+
+}
+.main_body{
+    background-color: pink;
+}
+.game1_search{
+ background-color: aquamarine;
+ 
+}
+.game1_search>input{
+    border: none;
+  background-color: transparent;
+  outline-width: 0;
+}
+
+.games1_body{
+    width: 75%;
+    margin-top: 15px;
+    border-radius: 15px;
+   background-color: aquamarine;
+   margin-left: 150px;
+    display: flex;
+    padding: 5px 5px;
+    
+}
+.games1_card{
+    width: 35%;
+    margin: 15px 5px;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 0px 5px 7px -7px rgba(0,0,0,0.75);
+    cursor: pointer;
+}
+.games1_card:hover{
+    transform: scale(1.07);
+}
+.game1_body_top>img{
+    width: 97%; 
+    height: 300px;
+   padding: 5px 5px;
+    border-radius: 15px;
+}
+.game1_body_bottom{
+    display: flex;
+    justify-content: space-between;
+    border-top: 0.5px solid gray;
+    
+}
+.game1_title>h3{
+    padding: 15px;
+    padding-left: 25px;
+    color: black;
+}
+.game1_rank>h3{
+    padding: 15px ;
+    padding-right: 35px;
+}

@@ -1,0 +1,9 @@
+.feed_body{
+    flex: 1;
+    padding: 25px 250px;
+   
+    display: flex;
+    flex-direction: column;
+   
+    align-items: center;
+}

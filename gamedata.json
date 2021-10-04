@@ -1,0 +1,66 @@
+[
+    {
+        "id1" : 1,
+        "image" : "https://images.hdqwalls.com/download/valorant-game-logo-4k-wi-2048x2048.jpg",
+        "title" :"VALORANT",
+        "rank":"#1"
+    },
+    {
+        "id2" :2,
+        "image" : "https://cdn140.picsart.com/291760009019201.jpg?type=webp&to=min&r=640",
+        "title":"FORTNITE",
+        "rank":"#2"
+    },
+    {
+        "id3":3,
+        "image" : "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/81a4e680815973.5cec6bcf6aa1a.jpg",
+         "title":"CYBERPUNK 2077",
+        "rank":"#3"
+    },
+
+
+   
+
+    {
+        "id4" : 4,
+        "image":"https://pbs.twimg.com/media/EGCoYSsX0AAt-oM.jpg",
+        "title":"RED DEAD REDEMPTION II",
+        "rank":"#4"
+    },
+    {
+    
+        "id5":5,
+
+        "image":"https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+        "title":"GTA V",
+        "rank":"#5"
+    },
+    {
+    
+        "id6":6,
+        "image":"https://cdn2.unrealengine.com/egs-amongus-innersloth-s6-1200x1600-675403712.jpg",
+        "title":"AMONG US",
+        "rank":"#6"
+    },
+
+    {   
+        "id7" : 7,
+        "image":"https://i.etsystatic.com/21013861/r/il/aea26a/2035868637/il_570xN.2035868637_la7i.jpg",
+        "title":"APEX LEGENDS",
+        "rank":"#7"
+    },
+    {
+    
+        "id8":8,
+        "image":"https://upload.wikimedia.org/wikipedia/en/4/4f/TLOU_P2_Box_Art_2.png",
+        "title":"THE LAST OF US II",
+        "rank":"#8"
+    },
+    {
+    
+        "id9":9,
+        "image":"https://image.api.playstation.com/vulcan/img/rnd/202009/2913/TQKAd8U6hnIFQIIcz6qnFh8C.png",
+        "title":"THE WITCHER III WILD HUNT",
+        "rank":"#9"
+    }
+]
